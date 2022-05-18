@@ -1,8 +1,8 @@
 {
   "name": "amf-ref-demo",
   "dependencies": {
-    "amf-client-js": "^5.0.5",
+    "amf-client-js": "^5.0.8",
     "swagger-cli": "^4.0.4",
-    "yargs": "^17.3.1"
+    "yargs": "^17.5.1"
   }
 }
